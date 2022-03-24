@@ -15,9 +15,7 @@ The aim of this project is to assist its users in locating information on facili
 
 ## Screenshot
 
-![Website screenshot](./images/Screenshot.png)
-
-# <img = ./images/Screenshot.png width=20px height=10px>
+# <p align=center><img src = ./images/Screenshot.png width=700px></p>
 
 ## Install Requirements
 
