@@ -58,7 +58,7 @@ On your computer open terminal and run:
 - [Sam Kuria](https://github.com/qurriahSam)
 - [Pauline Momanyi](https://github.com/Pauline-momanyi)
 - [Catherine Otondi](https://github.com/catherineotondi)
-- [Ann Wanjiru](https://github.com/annk1995)
+- [Kabui kariuki](https://github.com/annk1995)
 - [Milcah Muraguri](https://github.com/Ngima-Muraguri)
 - [Rose Kamau](https://github.com/Rose1200)
 - [John Onyango](https://github.com/JohnKOnyango)
